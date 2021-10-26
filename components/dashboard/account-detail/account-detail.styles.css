@@ -1,0 +1,20 @@
+.account-detail-icon {
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 60px;
+    right: -20px;
+    position: absolute;
+    color: #007BFF;
+}
+
+.stream-override {
+    height: 50vh !important;
+}
+
+.recent-text {
+    transition-delay: 0s !important;
+}
+
+.col .lead {
+    margin-bottom: 0;
+}

@@ -1,0 +1,35 @@
+export const UPDATE_SETTING = 'UPDATE_SETTING';
+export const SAVE_NEW_TRANSACTION_DETAILS = 'SAVE_NEW_TRANSACTION_DETAILS';
+
+// Alerts/loader modals
+export const ADD_ALERT = 'ADD_ALERT';
+export const CLEAR_ALERTS = 'CLEAR_ALERTS';
+export const ADD_LOADER = 'ADD_LOADER';
+export const CLEAR_LOADER = 'CLEAR_LOADER';
+
+// Profile picture cache
+export const ADD_PICTURE = 'ADD_PICTURE';
+export const CLEAR_CACHE = 'CLEAR_CACHE';
+
+// Update saved transactions
+export const SAVE_TRANSACTIONS = 'SAVE_TRANSACTIONS';
+export const CLEAR_TRANSACTIONS = 'CLEAR_TRANSACTIONS';
+
+// Get transactions
+export const FETCH_TRANSACTIONS_BEGIN = 'FETCH_TRANSACTIONS_BEGIN';
+export const FETCH_TRANSACTIONS_SUCCESS = 'FETCH_TRANSACTIONS_SUCCESS';
+export const FETCH_TRANSACTIONS_FAILURE = 'FETCH_TRANSACTIONS_FAILURE';
+
+// User settings
+export const LOGGED_IN = 'LOGGED_IN';
+export const LOGGED_OUT = 'LOGGED_OUT';
+export const SAVE_MONTHLY_REPORT = 'SAVE_MONTHLY_REPORT';
+export const UPDATE_BETA_INVITES = 'UPDATE_BETA_INVITES';
+export const SAVE_INFO = 'SAVE_INFO';
+export const CHANGE_INFO = 'CHANGE_INFO';
+export const SET_LOADED_INFO = 'SET_LOADED_INFO';
+export const SAVE_BANK_INFO = 'SAVE_BANK_INFO';
+export const CLEAR_BANK_INFO = 'CLEAR_BANK_INFO';
+export const FETCH_USER_INFO_BEGIN = 'FETCH_USER_INFO_BEGIN';
+export const FETCH_USER_INFO_SUCCESS = 'FETCH_USER_INFO_SUCCESS';
+export const FETCH_USER_INFO_FAILURE = 'FETCH_USER_INFO_FAILURE';
